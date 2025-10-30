@@ -94,6 +94,7 @@ public class GameManager : MonoBehaviour
         meteor.Setup(ground_, this, explosionPrefab_);
     }
 
+
     /// <summary>
     /// ”š”­‚Ì¶¬
     /// </summary>
